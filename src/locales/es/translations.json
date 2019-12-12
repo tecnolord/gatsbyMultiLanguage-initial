@@ -1,0 +1,17 @@
+{
+  "site": {
+    "Gatsby Default Starter": "Tecnolord",
+    "footer": "Creado por TecnoLord"
+  },
+  "home": {
+    "test": "Hola",
+    "title": "Hola a todo el mundo",
+    "content": "歡迎來到你新的Gatsby網站.\n開始建置很棒的內容吧!",
+    "link": "Pàgina 2"
+  },
+  "page2": {
+    "title": "嗨,這是第2頁",
+    "content": "歡迎來到第2頁",
+    "link": "回首頁"
+  }
+}
